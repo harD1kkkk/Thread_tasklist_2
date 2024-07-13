@@ -1,0 +1,10 @@
+C:\Users\arthu\source\repos\taskList_task_4-5\taskList_task_4-5\bin\Debug\taskList_task_4-5.exe.config
+C:\Users\arthu\source\repos\taskList_task_4-5\taskList_task_4-5\bin\Debug\taskList_task_4-5.exe
+C:\Users\arthu\source\repos\taskList_task_4-5\taskList_task_4-5\bin\Debug\taskList_task_4-5.pdb
+C:\Users\arthu\source\repos\taskList_task_4-5\taskList_task_4-5\obj\Debug\taskList_task_4-5.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\taskList_task_4-5\taskList_task_4-5\obj\Debug\taskList_task_4_5.Properties.Resources.resources
+C:\Users\arthu\source\repos\taskList_task_4-5\taskList_task_4-5\obj\Debug\taskList_task_4-5.csproj.GenerateResource.cache
+C:\Users\arthu\source\repos\taskList_task_4-5\taskList_task_4-5\obj\Debug\taskList_task_4-5.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\taskList_task_4-5\taskList_task_4-5\obj\Debug\taskList_task_4-5.exe
+C:\Users\arthu\source\repos\taskList_task_4-5\taskList_task_4-5\obj\Debug\taskList_task_4-5.pdb
+C:\Users\arthu\source\repos\taskList_task_4-5\taskList_task_4-5\obj\Debug\taskList_task_4_5.Form1.resources
