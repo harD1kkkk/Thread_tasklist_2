@@ -1,0 +1,10 @@
+C:\Users\arthu\source\repos\taskList_task_7\taskList_task_7\bin\Debug\taskList_task_7.exe.config
+C:\Users\arthu\source\repos\taskList_task_7\taskList_task_7\bin\Debug\taskList_task_7.exe
+C:\Users\arthu\source\repos\taskList_task_7\taskList_task_7\bin\Debug\taskList_task_7.pdb
+C:\Users\arthu\source\repos\taskList_task_7\taskList_task_7\obj\Debug\taskList_task_7.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\taskList_task_7\taskList_task_7\obj\Debug\taskList_task_7.Form1.resources
+C:\Users\arthu\source\repos\taskList_task_7\taskList_task_7\obj\Debug\taskList_task_7.Properties.Resources.resources
+C:\Users\arthu\source\repos\taskList_task_7\taskList_task_7\obj\Debug\taskList_task_7.csproj.GenerateResource.cache
+C:\Users\arthu\source\repos\taskList_task_7\taskList_task_7\obj\Debug\taskList_task_7.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\taskList_task_7\taskList_task_7\obj\Debug\taskList_task_7.exe
+C:\Users\arthu\source\repos\taskList_task_7\taskList_task_7\obj\Debug\taskList_task_7.pdb
